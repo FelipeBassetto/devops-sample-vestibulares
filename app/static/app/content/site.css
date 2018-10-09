@@ -42,7 +42,7 @@ input[type="checkbox"].input-validation-error {
 }
 
 .clicker {
-    width:100px;
+    width:18%;
     height:25px;
     outline:none;
     cursor:pointer;
