@@ -46,7 +46,8 @@ input[type="checkbox"].input-validation-error {
     height:25px;
     outline:none;
     cursor:pointer;
-    border:2px solid;
+    border:1px solid #ccc;
+    border-radius:4px;
 }
 
 .hiddendiv{
